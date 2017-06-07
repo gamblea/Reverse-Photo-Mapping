@@ -129,7 +129,7 @@ namespace Reverse_Geotag
 
         public async Task AddDescription()
         {
-            VisionServiceClient client = new VisionServiceClient("d23d165915ab41d2a99371946a9eab45");
+            VisionServiceClient client = new VisionServiceClient("");
 
             AnalysisResult analysisResult;
 
